@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "@solana/spl-token": "^0.3.9"
-  },
-  "scripts": {
-    "init": "ts-node ts/cluster1/spl_init.ts",
-    "mint": "ts-node ts/cluster1/spl_mint.ts"
-  }
-}
